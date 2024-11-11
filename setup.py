@@ -15,7 +15,7 @@ setup(
     description="Generate directory structures from text-based tree representations",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/treecraft",
+    url="https://github.com/ashwin271/treecraft",
     packages=find_packages(where="src"),
     package_dir={"": "src"},
     classifiers=[
