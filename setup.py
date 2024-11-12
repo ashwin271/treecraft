@@ -12,6 +12,7 @@ setup(
     version="0.1.0",
     author="Ashwin Murali",
     author_email="ashwinmurali27@gmail.com",
+    license="MIT",
     description="Generate directory structures from text-based tree representations",
     long_description=long_description,
     long_description_content_type="text/markdown",
