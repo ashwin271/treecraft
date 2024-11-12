@@ -1,5 +1,10 @@
 # 🌳 Treecraft
 
+[![Tests](https://github.com/ashwin271/treecraft/actions/workflows/tests.yml/badge.svg)](https://github.com/ashwin271/treecraft/actions/workflows/tests.yml)
+[![PyPI version](https://badge.fury.io/py/treecraft.svg)](https://badge.fury.io/py/treecraft)
+[![Python versions](https://img.shields.io/pypi/pyversions/treecraft.svg)](https://pypi.org/project/treecraft)
+[![PyPI status](https://img.shields.io/pypi/status/treecraft.svg)](https://pypi.org/project/treecraft/)
+
 Treecraft is a Python tool that generates directory structures from text-based tree representations. It provides an intuitive way to create project scaffolding from a visual directory tree structure.
 
 ## ✨ Features
@@ -9,6 +14,10 @@ Treecraft is a Python tool that generates directory structures from text-based t
 - 🔍 Dry run mode to preview changes
 - ⚡ Simple and intuitive CLI interface
 - 🛡️ Safe path handling and validation
+
+## 📋 Requirements
+
+- Python 3.7 or higher
 
 ## 🚀 Installation
 
@@ -138,3 +147,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Ashwin Murali - [@Ashwin_271](https://twitter.com/Ashwin_271)
 
 Project Link: [https://github.com/ashwin271/treecraft](https://github.com/ashwin271/treecraft)
+
+## 📝 Documentation
+
+- [Contributing Guidelines](CONTRIBUTING.md)
+- [Changelog](CHANGELOG.md)
