@@ -1,6 +1,10 @@
 # Changelog
 
-## [0.1.0] - 2024-03-19
+## [0.1.1] - 2024-11-12
+### Added
+- Added `__main__.py` to support module execution via `python -m treecraft`
+
+## [0.1.0] - 2024-11-12
 ### Added
 - Initial release with core functionality
 - Tree parsing with support for various tree formats
@@ -10,4 +14,5 @@
 - Comprehensive test suite
 - Documentation and examples
 
+[0.1.1]: https://github.com/ashwin271/treecraft/compare/v0.1.0...v0.1.1
 [0.1.0]: https://github.com/ashwin271/treecraft/releases/tag/v0.1.0
